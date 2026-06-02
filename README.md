@@ -24,4 +24,4 @@ O projeto cruza dados de duas fontes governamentais referentes ao ano de 2025:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/tcc-predicao-balneabilidade-aracaju.git](https://github.com/SEU-USUARIO/tcc-predicao-balneabilidade-aracaju.git)
+   git clone [https://github.com/AllanFabricio/linear_regression_water_quality_aracaju.git](https://github.com/AllanFabricio/linear_regression_water_quality_aracaju.git)
