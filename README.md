@@ -17,11 +17,11 @@ Avaliar e modelar o relacionamento linear entre fatores meteorológicos (Precipi
 
 ## 📂 Estrutura dos Dados
 O projeto cruza dados de duas fontes governamentais referentes ao ano de 2025:
-1. **INMET (Instituto Nacional de Meteorologia):** Dados diários da estação A409 de Aracaju (Chuva, Vento, Umidade). Arquivo: `dados_A409_D_2025-01-01_2025-12-31.csv`.
-2. **ADEMA (Administração Estadual do Meio Ambiente):** Laudos semanais de coliformes termotolerantes em diversos pontos da orla (Ex: Atalaia Velha, Banho Doce, Robalo). Arquivo: `balneabilidade_padrao_inmet.csv`.
+1. **INMET (Instituto Nacional de Meteorologia):** Dados diários da estação A409 de Aracaju (Chuva, Vento, Umidade). Arquivo: `dados_inmet_aracaju_2025.csv`.
+2. **ADEMA (Administração Estadual do Meio Ambiente):** Laudos semanais de coliformes termotolerantes em diversos pontos da orla (Ex: Atalaia Velha, Banho Doce, Robalo). Arquivo: `dados_adema_aracaju_2025.csv`.
 
 ## ⚙️ Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/AllanFabricio/linear_regression_water_quality_aracaju.git](https://github.com/AllanFabricio/linear_regression_water_quality_aracaju.git)
+   git clone https://github.com/AllanFabricio/linear_regression_water_quality_aracaju.git
